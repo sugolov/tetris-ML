@@ -68,11 +68,5 @@ class GridEnv(gym.Env):
         # self.
 
 
-if __name__ == "__main__":
-    # game = GridGame(20)
-    # env = GridGameInterface(game)
-    # env.main()
-
-
 
 
